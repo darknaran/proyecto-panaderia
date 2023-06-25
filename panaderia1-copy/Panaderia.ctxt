@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Panaderia
+comment1.params=nombre\ venatasuno\ ventasdos\ ventastres\ ventascuatro\ ventascinco\ ventasseis\ ventassiete
+comment1.target=Panaderia(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+numComments=3

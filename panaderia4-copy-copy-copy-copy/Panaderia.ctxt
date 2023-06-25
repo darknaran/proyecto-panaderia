@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Panaderia
+comment1.params=nit\ nombrePanaderia\ direccion
+comment1.target=Panaderia(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getNombreColegio()
+comment4.params=nombrePanaderia
+comment4.target=void\ setNombrePanaderia(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=int\ getNumpanes()
+comment8.params=
+comment8.target=double\ calcularPromedioGeneral()
+comment9.params=nombre\ ventauno\ ventados\ ventatres\ ventacuatro\ ventacinco\ ventaseis\ ventasiete
+comment9.target=void\ adicionarPan(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+numComments=10
